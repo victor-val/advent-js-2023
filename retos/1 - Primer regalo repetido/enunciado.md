@@ -1,4 +1,4 @@
-#Reto 1 ¡Primer regalo repetido!
+# Reto 1 ¡Primer regalo repetido!
 En la fábrica de juguetes del Polo Norte, cada juguete tiene un número de identificación único.
 
 Sin embargo, debido a un error en la máquina de juguetes, algunos números se han asignado a más de un juguete.
